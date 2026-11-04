@@ -1,0 +1,7 @@
+.venv/
+.env
+__pycache__/
+*.pyc
+.adk/
+recordings/
+.DS_Store
